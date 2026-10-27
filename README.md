@@ -1,1 +1,2 @@
-# rag-poisoning-project
+# PoisonRag Defense
+
